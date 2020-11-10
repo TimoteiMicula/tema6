@@ -1,0 +1,16 @@
+{
+  "name": "webpack-babel-assignment",
+  "version": "1.0.0",
+  "description": "Webpack Babel Assignment",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/TimoteiMicula/tema6.git"
+  }
+}
